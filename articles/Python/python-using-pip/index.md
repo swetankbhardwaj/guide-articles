@@ -32,3 +32,6 @@ Using `easy_install` is also simple. The syntax is:
     easy_install <module_name>
 
 However, `pip` is more popular than using `easy_install`.
+
+It can also be used to install virtual environment
+    pip install virtualenv
