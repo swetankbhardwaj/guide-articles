@@ -7,3 +7,4 @@ title: Python Code Blocks and Indentation
 
 *   Should this go here? What should be discussed at this point?
 *   Might be more suited for when functions are introduced."
+*   Errors can shoot if indentations are not proper
